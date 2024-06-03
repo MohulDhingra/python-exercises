@@ -1,0 +1,5 @@
+a=float(input("enter starting point: "))
+b=float(input("enter step size: "))
+c=float(input("enter no of steps: "))
+d=a+(b*c)
+print(d)
